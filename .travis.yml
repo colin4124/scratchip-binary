@@ -1,4 +1,4 @@
-name: Scala CI
+name: Scratchip Binary CI
 language: generic
 env:
   - VER=3.3.2 MILL_VERSION=0.7.3
